@@ -1,3 +1,22 @@
+# Edited on the project :) [chinese to english]
+
+![alt text](https://github.com/huanzhz/DSC-Workshop-2-Setup/blob/main/resources/chinese-sample.JPG)
+
+Clone/Download the project to hear the mp3.
+
+This project is reference form the following.
+
+Reference:
+
+https://github.com/AtrikDas/DSC-Workshop-2-Setup
+
+https://github.com/AtrikDas/DSC-Vision-AI-Workshop
+
+Resources:
+
+https://cloud.google.com/translate/docs/advanced/glossary#curl_4
+
+
 # DSC-Workshop-2-Setup
 
 # Introduction
